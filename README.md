@@ -1,0 +1,2 @@
+# SONOR_VS_ROCK_PREDECTION
+SONOR_VS_ROCK_PREDECTION using logistic regression
